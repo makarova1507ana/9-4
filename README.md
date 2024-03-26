@@ -3,7 +3,7 @@
 
 **Полный код: [gamecol.cpp](https://github.com/Skipper1231/gamecol/blob/main/gamecol.cpp)**
 ## Класс персонажа
-```
+``` C++
 class Character {
 protected:
     string name;
